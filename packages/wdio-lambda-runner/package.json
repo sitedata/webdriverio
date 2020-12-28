@@ -35,7 +35,7 @@
     "@wdio/logger": "^5.11.0",
     "@wdio/runner": "^5.11.10",
     "find-node-modules": "^2.0.0",
-    "serverless": "^1.25.0",
+    "serverless": "^2.1.0",
     "shelljs": "^0.8.3",
     "tmp": "^0.1.0"
   },
